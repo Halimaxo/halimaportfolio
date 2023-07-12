@@ -16,7 +16,7 @@ This my REACT portfolio!
 
 ![Screenshot of deployed page](./src//assets/Portfolio-Page.png)
 
-![Link to deployed Page] *https://intense-spire-59319-25ace60a9e2c.herokuapp.com/*
+Link to deployed Page: *https://intense-spire-59319-25ace60a9e2c.herokuapp.com/*
 
 ## Contributors
 
