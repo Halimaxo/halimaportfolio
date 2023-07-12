@@ -2,8 +2,6 @@
 
 - [Contributors](#contributors)
 
-- [Tests](#tests)
-
 - [Questions](#questions)
 
 ![GitHub License](https://img.shields.io/badge/license-None-pink.svg)
@@ -15,6 +13,10 @@ This my REACT portfolio!
 *https://github.com/Halimaxo/halimaportfolio*
 
 \*\*
+
+## Deployed page:
+
+![Screenshot of deployed page](./src//assets/Portfolio-Page.png)
 
 ## Contributors
 
