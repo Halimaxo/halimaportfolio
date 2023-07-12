@@ -1,13 +1,76 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.footer-image {
+  max-height: 40px;
+}
+
+.footer-image2 {
+  max-height: 40px;
+}
+.footer-image3 {
+  max-height: 50px;
+}
+
+.avatar-image {
+  max-height: 300px;
+}
+
+#about {
+}
+
+#footer-section {
+}
+
+#root {
+  background-color: rgb(241, 228, 252);
+}
+
+.project1 {
+}
+
+.project-1-image {
+  max-height: 425px;
+}
+
+.project-2-image {
+  max-height: 350px;
+}
+
+.project-3-image {
+  max-height: 400px;
+}
+
+.project-4-image {
+  max-height: 400px;
+}
+
+.project-5-image {
+  max-height: 450px;
+}
+
+.project-6-image {
+  max-height: 365px;
+}
+
+.portfolio-header {
+  display: flex;
+  color: purple;
 }
